@@ -26,3 +26,6 @@
 
 # デザイン
 - https://stopcovid19.metro.tokyo.lg.jp/
+
+# カラー
+白、黒、ゴールド
