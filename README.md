@@ -2,6 +2,8 @@
 個人のポートフォリオサイトです。
 - Nuxt.js
 - vuetify
+- Github
+- AWS
 
 # 内容
 ## header
